@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-11-30T18:47:47 IST" name="Default suite" finished-at="2019-11-30T18:47:49 IST" duration-ms="2128">
+  <suite started-at="2019-12-12T09:44:31 IST" name="Default suite" finished-at="2019-12-12T09:44:35 IST" duration-ms="4388">
     <groups>
     </groups>
-    <test started-at="2019-11-30T18:47:47 IST" name="Default test" finished-at="2019-11-30T18:47:49 IST" duration-ms="2128">
-      <class name="com.qa.test.CreateUserDeserialization">
-        <test-method signature="createUser()[pri:0, instance:com.qa.test.CreateUserDeserialization@7ea37dbf]" started-at="2019-11-30T18:47:47 IST" name="createUser" finished-at="2019-11-30T18:47:49 IST" duration-ms="2082" status="PASS">
+    <test started-at="2019-12-12T09:44:31 IST" name="Default test" finished-at="2019-12-12T09:44:35 IST" duration-ms="4388">
+      <class name="com.qa.test.OAuth2">
+        <test-method signature="handleOAuth2()[pri:0, instance:com.qa.test.OAuth2@13c10b87]" started-at="2019-12-12T09:44:31 IST" name="handleOAuth2" finished-at="2019-12-12T09:44:35 IST" duration-ms="4328" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-      </class> <!-- com.qa.test.CreateUserDeserialization -->
+        </test-method> <!-- handleOAuth2 -->
+      </class> <!-- com.qa.test.OAuth2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
